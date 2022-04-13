@@ -18,6 +18,11 @@ section{
     box-shadow: 5px 5px 10px rgba(44, 43, 43, 0.493);
 }
 
+div{
+    text-align: center;
+    padding: 8px;
+}
+
 footer{
     color: azure;
     text-align: center;
